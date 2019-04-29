@@ -1,2 +1,0 @@
-# webskills
-training project
